@@ -1,4 +1,4 @@
-# TugasPemrogramanGUI-Novian_Dwi_Romadon-19104011
+# Tugas1-Desain_Layout_PemrogramanGUI-Novian_Dwi_Romadon-19104011
 
 Desain Layout GUI menggunakan QT Desainer\
 \
