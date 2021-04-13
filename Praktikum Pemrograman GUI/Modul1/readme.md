@@ -1,7 +1,4 @@
 # Praktikum Pemrograman GUI - Modul 1
-<br /><br />
-
-
 ## Instalasi Software Anaconda
 Berikut merupakan cara instalasi Software Anaconda pada sistem operasi windows 64bit,
 ### 1. Siapkan file installer Anaconda, lalu jalankan. Pada tahap awal install klik next.
